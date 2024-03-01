@@ -2,7 +2,7 @@ body {background-color: antiquewhite;}
 header{
     text-align: center;
 }
-.aboutMe{
+.hello{
     font: 15px Geogria, serif; 
     background-color: olivedrab;
     color: white;
@@ -12,4 +12,7 @@ header{
 }
 #myHeader{
     font-style:italic;
+}
+a:hover{
+    color: black;
 }
