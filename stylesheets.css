@@ -1,4 +1,8 @@
 body {background-color: antiquewhite;}
 header{
     font-style:italic;
+    text-align: center;
+}
+.aboutMe{
+    font: 10px Geogria, serif; 
 }
