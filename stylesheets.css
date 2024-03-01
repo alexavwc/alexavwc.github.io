@@ -1,6 +1,5 @@
 body {background-color: antiquewhite;}
 header{
-    font-style:italic;
     text-align: center;
 }
 .aboutMe{
@@ -10,4 +9,7 @@ header{
     border: 2px solid black;
     margin: 20px;
     padding: 20px;
+}
+#myHeader{
+    font-style:italic;
 }
