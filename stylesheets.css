@@ -4,5 +4,10 @@ header{
     text-align: center;
 }
 .aboutMe{
-    font: 10px Geogria, serif; 
+    font: 15px Geogria, serif; 
+    background-color: olivedrab;
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
 }
